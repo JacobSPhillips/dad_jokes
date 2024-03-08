@@ -1,2 +1,2 @@
 # dad_jokes
-Very limited dad joke generator
+Very limited dad joke generator using an api
